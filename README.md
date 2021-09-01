@@ -1,4 +1,4 @@
-![IMG_4852](https://user-images.githubusercontent.com/63314269/131737583-1f97d86c-1c09-48b5-9a0d-1ec1822f25f5.JPG)
+![IMG_4849](https://user-images.githubusercontent.com/63314269/131738196-70750756-8fd4-4af2-9a66-7571eee3a19f.JPG)
 
 
 ### Advertising campaign for IKEA
