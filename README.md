@@ -6,14 +6,19 @@
 ### Company info
 IKEA is a swedish a company that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other goods and home services
 
-### Opprtunity 
-IKEA did a Advertising campaign in Paris and it was a sleep capsule connected to a bike to take a nap or you get the opprtunity to try their beds.
-So i found an opprtunity to to the sama advertising campaign on NYC based MTA data to know which locations are most likely to get us noticed!
+### Opportunity  
+IKEA did an Advertising campaign in Paris and it was a sleeping capsule connected to a bike to take a nap or you get the opportunity to try their beds. So I found an opportunity to do the same advertising campaign on NYC based MTA data to know which stations are most likely to get us noticed so that we can distribute our capsules to those stations
+
+### Value added to the company?
+* Getting peoples attention on our product
+* Increasing saled
+
 
 
 #### Question/need:
-* What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
-* Who benefits from exploring this question or building this model/system?
+* What is the top stations on traffic?
+* is weekday or weekend is better?
+* AM or PM?
 
 #### Data Description:
 * What dataset(s) do you plan to use, and how will you obtain the data?
@@ -21,8 +26,8 @@ So i found an opprtunity to to the sama advertising campaign on NYC based MTA da
 * If modeling, what will you predict as your target?
 
 #### Tools:
-* How do you intend to meet the tools requirement of the project? 
-* Are you planning in advance to need or use additional tools beyond those required?
+* Technologies: SQL, SQLite ,python, Jupyter notebook
+* Libraries: Numpy, Pandas, Pandas profiling, Matplotlib, Seaborn, Sklearn
 
 #### MVP Goal:
 * What would a [minimum viable product (MVP)](./mvp.md) look like for this project?
