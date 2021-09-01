@@ -1,11 +1,14 @@
-### Project Proposal Template
+![alt text](http://url/to/img.png)
 
-Before you start project work for a course, you **should be able to complete the following proposal template**, addressing the questions listed as completely as possible. 
-However, keep in mind that throughout the design iterations of your project, many parts of it will likely change 
-(i.e. increase/decrease in number of samples, types of features or algorithm used, etc), so this is just a starting point.
-Also, if you are unsure in some areas, you should still submit a partial proposal to receive feedback from instructors. 
+### Advertising campaign for IKEA
 
-In addition to submitting this plan, you may discuss the areas below with an instructor in a **scope meeting**.
+### Company info
+IKEA is a swedish a company that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other goods and home services
+
+### Opprtunity 
+IKEA did a Advertising campaign in Paris and it was a sleep capsule connected to a bike to take a nap or you get the opprtunity to try their beds.
+So i found an opprtunity to to the sama advertising campaign on NYC based MTA data to know which locations are most likely to get us noticed!
+
 
 #### Question/need:
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
