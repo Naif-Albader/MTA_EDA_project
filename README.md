@@ -1,4 +1,5 @@
-![Uploading IMG_4852.JPG…]()
+![IMG_4852](https://user-images.githubusercontent.com/63314269/131737583-1f97d86c-1c09-48b5-9a0d-1ec1822f25f5.JPG)
+
 
 ### Advertising campaign for IKEA
 
