@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![Alt text](/Users/naif/Downloads/IMG_4852.JPG?raw=true "Title")
 
 ### Advertising campaign for IKEA
 
