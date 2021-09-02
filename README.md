@@ -24,11 +24,26 @@ the MTA dataset represent the number of ENTRIES and EXITS of the stations in New
 i will do the analysis on the latest 3 monthes period provided by the mta.info website which is june to sep of 2021. 
 * The campaign will start as soon as possible so we want to know the current behavior of mta data
 
+#### Dataset Description:
+
+| Field Name | Description                                                                     |
+|------------|---------------------------------------------------------------------------------|
+| C/A        | Control Area (A002)                                                             |
+| UNIT       | Remote Unit for a station (R051)                                                |
+| SCP        | Subunit Channel Position represents an specific address for a device (02-00-00) |
+| STATION    | Represents the station name the device is located at                            |
+| LINENAME   | Represents all train lines that can be boarded at this station                  |
+| DIVISION   | Represents the Line originally the station belonged to BMT, IRT, or IND         |
+| DATE       | Represents the date (MM-DD-YY)                                                  |
+| TIME       | Represents the time (hh:mm:ss) for a scheduled audit event                      |
+| DESC       | Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours)   |
+| ENTRIES    | The comulative entry register value for a device                                |
+| EXITS      | The cumulative exit register value for a device                                 |
 
 
 
 #### Tools:
-* Technologies: SQL, SQLite ,python, Jupyter notebook
-* Libraries: Numpy, Pandas, Pandas profiling, Matplotlib, Seaborn, Sklearn
+* Technologies: SQL, SQLite ,Python, Jupyter notebook
+* Libraries: Numpy, Pandas, Matplotlib, Seaborn
 
 
