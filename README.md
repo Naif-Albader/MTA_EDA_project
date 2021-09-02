@@ -27,6 +27,9 @@ I will do the analysis on the latest 3 months period provided by the mta.info we
 
 #### Dataset Description:
 
+* 11 Columns
+* 2722730 Rows
+
 | Field Name | Description                                                                     |
 |------------|---------------------------------------------------------------------------------|
 | C/A        | Control Area (A002)                                                             |
